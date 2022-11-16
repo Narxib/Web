@@ -1,0 +1,1 @@
+web: gunicorn djangocms.ws gi
